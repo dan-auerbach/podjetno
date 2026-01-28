@@ -1,0 +1,107 @@
+[
+  {
+    "id": "miha-sencar-tenzor-ptuj",
+    "title": "Miha Senčar: »Na Ptuju imamo posebno srce in zagon, da stvari spreminjamo, da ne jamramo, ampak delamo.«",
+    "dek": "Podjetno z Miho Senčarjem. O rasti, osebnem razvoju in ekipi v Skupini Tenzor.",
+    "url": "https://ptujinfo.com/novica/gospodarstvo/miha-sencar-na-ptuju-imamo-posebno-srce-zagon-da-stvari-spreminjamo-da-ne-jamramo-ampak-delamo/323959",
+    "portal": "ptujinfo",
+    "date": "2025-01-05",
+    "companyName": "Skupina Tenzor",
+    "region": "Ptuj",
+    "industryTags": ["tehnično varovanje", "elektroinštalacije", "integracija rešitev", "prometna infrastruktura"],
+    "contentType": "article",
+    "hasVideo": false,
+    "entrepreneurPhoto": "/podjetniki/miha-sencar.jpeg",
+    "featured": true,
+    "companyFacts": {
+      "oneLiner": "Skupina Tenzor iz Ptuja deluje na področju tehničnega varovanja, elektroinštalacij in integracije kompleksnih infrastrukturnih rešitev v Sloveniji in tujini.",
+      "employees": "60+",
+      "revenue": "več kot 20 mio € letno (skupina)",
+      "profit": "pozitivno poslovanje"
+    }
+  },
+  {
+    "id": "til-pleterski-hood-burger-ljubljana",
+    "title": "Til Pleterski (Hood Burger): »Težko je reči, kaj je dober šef, ampak moraš biti človeški.«",
+    "dek": "Podjetno s Tilom Pleterskim. Kako se gradi močna blagovna znamka in kultura ekipe v gostinstvu.",
+    "url": "https://ljubljanainfo.com/novica/gospodarstvo/til-klemen-iz-hood-burgerja-tezko-je-reci-kaj-je-dober-sef-ampak-moras-biti-cloveski/328711",
+    "portal": "ljubljanainfo",
+    "date": "2025-01-12",
+    "companyName": "Hood Burger",
+    "region": "Ljubljana",
+    "industryTags": ["gostinstvo", "blagovna znamka", "vodenje ekipe"],
+    "contentType": "article",
+    "hasVideo": false,
+    "featured": true,
+     "entrepreneurPhoto": "/podjetniki/til-pleterski.jpg",
+    "companyFacts": {
+      "oneLiner": "Hood Burger je ena najbolj prepoznavnih slovenskih gostinskih blagovnih znamk, znana po močni kulturi ekipe in dosledni kakovosti.",
+      "employees": "50+",
+      "revenue": "več mio € letno",
+      "profit": "stabilno poslovanje"
+    }
+  },
+  {
+    "id": "tanja-skaza-velenje",
+    "title": "Tanja Skaza: »Ker mi v otroštvu ni bilo nič dano na dlani, sem se naučila, da si moram vse prislužiti sama.«",
+    "dek": "Podjetno s Tanjo Skaza. O vztrajnosti, vrednotah in razvoju mednarodno uspešnega proizvodnega podjetja.",
+    "url": "https://mariborinfo.com/novica/gospodarstvo/tanja-skaza-ker-mi-v-otrostvu-ni-bilo-nic-dano-na-dlani-sem-se-naucila-da-si-moram-vse-prisluziti-sama/328939",
+    "portal": "mariborinfo",
+    "date": "2025-01-18",
+    "companyName": "Plastika Skaza",
+    "region": "Velenje",
+    "industryTags": ["proizvodnja", "trajnost", "izvoz", "vodenje"],
+    "contentType": "article",
+    "hasVideo": false,
+    "entrepreneurPhoto": "/podjetniki/tanja-skaza.jpg",
+    "featured": true,
+    "companyFacts": {
+      "oneLiner": "Plastika Skaza iz Velenja je mednarodno uveljavljeno proizvodno podjetje s poudarkom na trajnostnih rešitvah in razvoju ljudi.",
+      "employees": "200+",
+      "revenue": "30+ mio € letno",
+      "profit": "dobičkonosno poslovanje"
+    }
+  },
+  {
+    "id": "peter-ladic-intera-ptuj",
+    "title": "Peter Ladič: »Pri nas besede šef ne uporabljamo.«",
+    "dek": "Podjetno s Petrom Ladičem. O vodenju brez hierarhije in razvoju digitalnih produktov v Interi.",
+    "url": "https://ptujinfo.com/novica/gospodarstvo/peter-ladic-uspesno-ptujsko-podjetje-vodi-kot-del-ekipe-pri-nas-besede-sef-ne-uporabljamo/330150",
+    "portal": "ptujinfo",
+    "date": "2025-01-22",
+    "companyName": "Intera",
+    "region": "Ptuj",
+    "industryTags": ["IT", "SaaS", "produktni razvoj", "vodenje"],
+    "contentType": "article",
+    "hasVideo": false,
+     "entrepreneurPhoto": "/podjetniki/peter-ladic.jpg",
+    "featured": true,
+    "companyFacts": {
+      "oneLiner": "Intera razvija digitalne rešitve, predvsem platformo Intrix, za podporo prodaji, projektom in organizaciji dela.",
+      "employees": "40+",
+      "revenue": "več mio € letno",
+      "profit": "pozitivno poslovanje"
+    }
+  },
+  {
+    "id": "kristjan-magdic-lust-murska-sobota",
+    "title": "Kristjan Magdič (Lušt d.o.o.): »Diploma ni vedno merilo – pomembno je, da človek zna razmišljati.«",
+    "dek": "Podjetno s Kristjanom Magdičem. O zdravi kmečki logiki, vztrajnosti in razvoju ene najbolj prepoznavnih slovenskih zelenjavnih blagovnih znamk.",
+    "url": "https://sobotainfo.com/novica/gospodarstvo/kristjan-magdic-diploma-ni-vedno-merilo-bolj-pomembno-je-da-clovek-zna-razmisljati-ima-zdravo-kmecko-logiko/330822",
+    "portal": "sobotainfo",
+    "date": "2025-01-28",
+    "companyName": "Lušt d.o.o.",
+    "region": "Murska Sobota",
+    "industryTags": ["kmetijstvo", "živilska industrija", "blagovna znamka", "trajnost"],
+    "contentType": "article",
+    "hasVideo": false,
+	"entrepreneurPhoto": "/podjetniki/kristjan-magdic.jpg",
+    "featured": true,
+    "companyFacts": {
+      "oneLiner": "Lušt d.o.o. iz Prekmurja je sinonim za vrhunski slovenski paradižnik in primer uspešne povezave kmetijstva ter blagovne znamke.",
+      "employees": "100+ (sezonsko)",
+      "revenue": "več mio € letno",
+      "profit": "stabilno poslovanje"
+    }
+  }
+]

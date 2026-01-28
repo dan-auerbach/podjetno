@@ -1,0 +1,11 @@
+<svg width="400" height="100" viewBox="0 0 400 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- PODJET text in dark -->
+  <text x="0" y="70" font-family="Arial Black, sans-serif" font-size="72" font-weight="900" fill="#0f172a" letter-spacing="-2">PODJET</text>
+  <!-- Green arrow/N shape -->
+  <g transform="translate(245, 15)">
+    <path d="M0 70 L0 25 L25 50 L25 0 L45 0 L45 45 L70 20 L70 70 L50 70 L50 40 L25 65 L25 70 Z" fill="#6ABF69"/>
+    <path d="M35 0 L55 0 L55 5 L45 5 L45 0 L55 0 L70 20 L55 20 L45 5" fill="#6ABF69"/>
+  </g>
+  <!-- O at the end -->
+  <text x="330" y="70" font-family="Arial Black, sans-serif" font-size="72" font-weight="900" fill="#0f172a" letter-spacing="-2">O</text>
+</svg>
