@@ -1,36 +1,16 @@
-'use client';
-
 import Image from 'next/image';
+import Link from 'next/link';
 import { Story, PORTAL_NAMES } from '@/types';
-import { addUtmParams, formatDate } from '@/lib/data';
-import { useState } from 'react';
-import StoryModal from './StoryModal';
+import { formatDate } from '@/lib/data';
 
 interface StoryCardProps {
   story: Story;
 }
 
 export default function StoryCard({ story }: StoryCardProps) {
-  const [isModalOpen, setIsModalOpen] = useState(false);
-
-  const handleCardClick = (e: React.MouseEvent) => {
-    // Open modal on card click
-    e.preventDefault();
-    setIsModalOpen(true);
-  };
-
-  const handleReadMore = (e: React.MouseEvent) => {
-    // Stop propagation and open URL
-    e.stopPropagation();
-    window.open(addUtmParams(story.url), '_blank', 'noopener,noreferrer');
-  };
-
   return (
-    <>
-      <article
-        className="group bg-white rounded-xl shadow-sm border border-slate-200 overflow-hidden hover:shadow-lg hover:border-slate-300 transition-all duration-300 cursor-pointer flex flex-col"
-        onClick={handleCardClick}
-      >
+    <Link href={`/podjetniki/${story.id}`}>
+      <article className="group bg-white rounded-xl shadow-sm border border-slate-200 overflow-hidden hover:shadow-lg hover:border-slate-300 transition-all duration-300 cursor-pointer flex flex-col h-full">
         {/* Image */}
         <div className="relative aspect-[16/9] bg-slate-100 overflow-hidden">
           {story.image ? (
@@ -107,10 +87,7 @@ export default function StoryCard({ story }: StoryCardProps) {
                 {story.companyName}
               </span>
             )}
-            <button
-              onClick={handleReadMore}
-              className="text-sm font-medium text-green-600 hover:text-green-700 transition-colors ml-auto inline-flex items-center gap-1"
-            >
+            <span className="text-sm font-medium text-green-600 group-hover:text-green-700 transition-colors ml-auto inline-flex items-center gap-1">
               Preberi
               <svg
                 className="w-4 h-4"
@@ -122,20 +99,13 @@ export default function StoryCard({ story }: StoryCardProps) {
                   strokeLinecap="round"
                   strokeLinejoin="round"
                   strokeWidth={2}
-                  d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14"
+                  d="M17 8l4 4m0 0l-4 4m4-4H3"
                 />
               </svg>
-            </button>
+            </span>
           </div>
         </div>
       </article>
-
-      {/* Quick-view Modal */}
-      <StoryModal
-        story={story}
-        isOpen={isModalOpen}
-        onClose={() => setIsModalOpen(false)}
-      />
-    </>
+    </Link>
   );
 }
