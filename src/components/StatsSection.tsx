@@ -4,33 +4,33 @@ export default function StatsSection() {
   const stats = [
     {
       value: STATS.monthlyReaders,
-      label: 'Mesečnih bralcev',
+      label: 'mesečnih bralcev',
       description: 'MOSS 01/25',
     },
     {
       value: STATS.monthlyViews,
-      label: 'Mesečnih ogledov',
-      description: 'Skupno',
+      label: 'mesečnih ogledov',
+      description: 'skupno',
     },
     {
       value: STATS.fbFollowers,
       label: 'Facebook sledilcev',
-      description: 'Skupna publika',
+      description: 'skupna publika',
     },
     {
       value: STATS.postsPerMonth,
-      label: 'Objav mesečno',
-      description: 'Aktivna produkcija',
+      label: 'objav mesečno',
+      description: 'aktivna produkcija',
     },
     {
       value: STATS.mediaOutlets.toString(),
-      label: 'Medijev',
-      description: 'Lokalna pokritost',
+      label: 'medijev',
+      description: 'lokalna pokritost',
     },
     {
       value: STATS.newsrooms.toString(),
-      label: 'Uredništva',
-      description: 'Profesionalni timi',
+      label: 'uredništva',
+      description: 'profesionalni timi',
     },
   ];
 

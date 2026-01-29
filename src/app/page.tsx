@@ -18,9 +18,6 @@ export default function HomePage() {
       {/* Hero */}
       <HeroSection />
 
-      {/* About */}
-      <AboutSection />
-
       {/* Stories Section */}
       <section id="zgodbe" className="py-16 md:py-24 bg-slate-50">
         <div className="container mx-auto px-4">
@@ -67,6 +64,9 @@ export default function HomePage() {
           </div>
         </div>
       </section>
+
+      {/* About */}
+      <AboutSection />
 
       {/* Stats */}
       <StatsSection />
