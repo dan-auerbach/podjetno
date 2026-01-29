@@ -63,7 +63,7 @@ export default function HeroSection() {
 
           {/* Portals list */}
           <div className="mt-16 pt-8 border-t border-slate-800">
-            <p className="text-sm text-slate-500 mb-4">Objavljamo na:</p>
+            <p className="text-sm text-slate-500 mb-4">Objavljamo v medijih skupine Moji Mediji:</p>
             <div className="flex flex-wrap justify-center items-center gap-4 text-sm text-slate-400">
               {MEDIA_LINKS.map((media) => (
                 <a
