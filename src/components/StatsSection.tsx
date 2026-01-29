@@ -24,7 +24,7 @@ export default function StatsSection() {
     },
     {
       value: STATS.mediaOutlets.toString(),
-      label: 'Medijskih portalov',
+      label: 'Medijev',
       description: 'Lokalna pokritost',
     },
     {
@@ -39,7 +39,7 @@ export default function StatsSection() {
       <div className="container mx-auto px-4">
         <div className="text-center mb-12">
           <h2 className="text-3xl md:text-4xl font-bold">
-            Moji mediji v številkah
+            Moji Mediji v številkah
           </h2>
         </div>
 
@@ -62,7 +62,7 @@ export default function StatsSection() {
 
         <p className="text-center text-slate-400 text-sm mt-8 max-w-2xl mx-auto">
           Moji Mediji je vodilni digitalni izdajatelj lokalnih medijskih vsebin
-          v Sloveniji, ki povezuje sedem lokalnih portalov in televizijo.
+          v Sloveniji, ki povezuje sedem spletnih medijev in televizijo.
         </p>
       </div>
     </section>

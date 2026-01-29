@@ -92,7 +92,7 @@ export default function Footer() {
                   info@mojimediji.si
                 </a>
               </li>
-              <li>Moji mediji d.o.o.</li>
+              <li>Moji Mediji d.o.o.</li>
               <li>Wolfova 1</li>
               <li>1000 Ljubljana</li>
             </ul>
@@ -102,7 +102,7 @@ export default function Footer() {
         {/* Bottom bar */}
         <div className="mt-12 pt-8 border-t border-slate-800 flex flex-col md:flex-row justify-between items-center gap-4">
           <p className="text-slate-500 text-sm">
-            &copy; {currentYear} Moji mediji d.o.o. Vse pravice pridržane.
+            &copy; {currentYear} Moji Mediji d.o.o. Vse pravice pridržane.
           </p>
           <div className="flex gap-6 text-sm">
             <Link

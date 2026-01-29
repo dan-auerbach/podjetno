@@ -16,20 +16,20 @@ export const metadata: Metadata = {
     template: '%s | PODJETNO',
   },
   description:
-    'Odkrivamo neznane zgodbe uspešnih podjetnikov po Sloveniji. Projekt Moji mediji deli navdihujoče zgodbe o delu, vztrajnosti in podjetniški miselnosti.',
+    'Odkrivamo neznane zgodbe uspešnih podjetnikov po Sloveniji. Projekt Moji Mediji deli navdihujoče zgodbe o delu, vztrajnosti in podjetniški miselnosti.',
   keywords: [
     'podjetništvo',
     'podjetniki',
     'Slovenija',
     'zgodbe',
-    'Moji mediji',
+    'Moji Mediji',
     'lokalni podjetniki',
     'startup',
     'poslovna zgodba',
   ],
-  authors: [{ name: 'Moji mediji d.o.o.' }],
-  creator: 'Moji mediji d.o.o.',
-  publisher: 'Moji mediji d.o.o.',
+  authors: [{ name: 'Moji Mediji d.o.o.' }],
+  creator: 'Moji Mediji d.o.o.',
+  publisher: 'Moji Mediji d.o.o.',
   openGraph: {
     type: 'website',
     locale: 'sl_SI',
@@ -37,7 +37,7 @@ export const metadata: Metadata = {
     siteName: 'PODJETNO',
     title: 'PODJETNO | Navdihujoče zgodbe podjetnikov',
     description:
-      'Odkrivamo neznane zgodbe uspešnih podjetnikov po Sloveniji. Projekt Moji mediji deli navdihujoče zgodbe o delu, vztrajnosti in podjetniški miselnosti.',
+      'Odkrivamo neznane zgodbe uspešnih podjetnikov po Sloveniji. Projekt Moji Mediji deli navdihujoče zgodbe o delu, vztrajnosti in podjetniški miselnosti.',
     images: [
       {
         url: '/og-image.jpg',

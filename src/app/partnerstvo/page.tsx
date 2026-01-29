@@ -179,7 +179,7 @@ export default function PartnershipPage() {
               Naš doseg
             </h2>
             <p className="text-slate-600 max-w-2xl mx-auto">
-              Kot del medijske hiše Moji mediji imamo dostop do široke publike
+              Kot del medijske hiše Moji Mediji imamo dostop do široke publike
               po vsej Sloveniji.
             </p>
           </div>
@@ -303,7 +303,7 @@ export default function PartnershipPage() {
                       Izdajatelj
                     </h3>
                     <p className="text-slate-600">
-                      Moji mediji d.o.o.
+                      Moji Mediji d.o.o.
                       <br />
                       Wolfova 1
                       <br />

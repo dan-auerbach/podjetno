@@ -62,8 +62,8 @@ export default function AboutSection() {
                 Široka distribucija
               </h3>
               <p className="text-slate-600 leading-relaxed">
-                Zgodbe objavljamo na sedmih lokalnih portalih medijske hiše Moji
-                mediji, na TV IDEA ter prek naših družbenih omrežij na LinkedInu
+                Zgodbe objavljamo na sedmih lokalnih spletnih medijih Moji
+                Mediji, na TV IDEA ter prek naših družbenih omrežij na LinkedInu
                 in Facebooku. Tako dosežemo lokalne skupnosti po vsej Sloveniji.
               </p>
             </div>
