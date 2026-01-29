@@ -180,22 +180,40 @@ export default async function EntrepreneurPage({ params }: PageProps) {
               href={story.url}
               target="_blank"
               rel="noopener noreferrer"
-              className="inline-flex items-center justify-center w-full px-8 py-5 bg-gradient-to-r from-green-600 to-green-500 hover:from-green-700 hover:to-green-600 text-white font-bold rounded-2xl transition-all duration-300 gap-3 text-lg md:text-xl shadow-lg shadow-green-500/25 hover:shadow-xl hover:shadow-green-500/30"
+              className="inline-flex flex-col items-center justify-center w-full px-8 py-5 bg-gradient-to-r from-green-600 to-green-500 hover:from-green-700 hover:to-green-600 text-white font-bold rounded-2xl transition-all duration-300 gap-2 shadow-lg shadow-green-500/25 hover:shadow-xl hover:shadow-green-500/30"
             >
-              Preberi celoten intervju na {portalName}
-              <svg
-                className="w-6 h-6"
-                fill="none"
-                stroke="currentColor"
-                viewBox="0 0 24 24"
-              >
-                <path
-                  strokeLinecap="round"
-                  strokeLinejoin="round"
-                  strokeWidth={2}
-                  d="M17 8l4 4m0 0l-4 4m4-4H3"
-                />
-              </svg>
+              <span className="inline-flex items-center gap-3 text-lg md:text-xl">
+                Preberi celoten intervju na {portalName}
+                <svg
+                  className="w-6 h-6"
+                  fill="none"
+                  stroke="currentColor"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    strokeLinecap="round"
+                    strokeLinejoin="round"
+                    strokeWidth={2}
+                    d="M17 8l4 4m0 0l-4 4m4-4H3"
+                  />
+                </svg>
+              </span>
+              <span className="inline-flex items-center gap-1.5 text-sm font-medium text-green-100">
+                <svg
+                  className="w-4 h-4"
+                  fill="none"
+                  stroke="currentColor"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    strokeLinecap="round"
+                    strokeLinejoin="round"
+                    strokeWidth={2}
+                    d="M8 11V7a4 4 0 118 0m-4 8v2m-6 4h12a2 2 0 002-2v-6a2 2 0 00-2-2H6a2 2 0 00-2 2v6a2 2 0 002 2z"
+                  />
+                </svg>
+                brezplačno
+              </span>
             </a>
           </div>
 
