@@ -18,7 +18,7 @@ export default function Header() {
               alt="PODJETNO"
               width={320}
               height={80}
-              className="h-12 w-auto"
+              className="h-[62px] w-auto"
               priority
             />
           </Link>
