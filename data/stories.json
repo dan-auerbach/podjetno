@@ -5,7 +5,7 @@
     "dek": "Podjetno s Tanjo Skaza. O vztrajnosti, vrednotah in razvoju mednarodno uspešnega proizvodnega podjetja.",
     "url": "https://mariborinfo.com/novica/gospodarstvo/tanja-skaza-ker-mi-v-otrostvu-ni-bilo-nic-dano-na-dlani-sem-se-naucila-da-si-moram-vse-prisluziti-sama/328939",
     "portal": "mariborinfo",
-    "date": "2025-01-18",
+    "date": "2026-01-18",
     "companyName": "Plastika Skaza",
     "region": "Velenje",
     "industryTags": [
@@ -31,7 +31,7 @@
     "dek": "Podjetno s Petrom Ladičem. O vodenju brez hierarhije in razvoju digitalnih produktov v Interi.",
     "url": "https://ptujinfo.com/novica/gospodarstvo/peter-ladic-uspesno-ptujsko-podjetje-vodi-kot-del-ekipe-pri-nas-besede-sef-ne-uporabljamo/330150",
     "portal": "ptujinfo",
-    "date": "2025-01-22",
+    "date": "2026-01-22",
     "companyName": "Intera",
     "region": "Ptuj",
     "industryTags": [
@@ -57,7 +57,7 @@
     "dek": "Podjetno s Kristjanom Magdičem. O zdravi kmečki logiki, vztrajnosti in razvoju ene najbolj prepoznavnih slovenskih zelenjavnih blagovnih znamk.",
     "url": "https://sobotainfo.com/novica/gospodarstvo/kristjan-magdic-diploma-ni-vedno-merilo-bolj-pomembno-je-da-clovek-zna-razmisljati-ima-zdravo-kmecko-logiko/330822",
     "portal": "sobotainfo",
-    "date": "2025-01-28",
+    "date": "2026-01-28",
     "companyName": "Paradajz d.o.o.",
     "region": "Murska Sobota",
     "industryTags": [
@@ -83,7 +83,7 @@
     "dek": "Podjetno z Miho Senčarjem. O rasti, osebnem razvoju in ekipi v Skupini Tenzor.",
     "url": "https://ptujinfo.com/novica/gospodarstvo/miha-sencar-na-ptuju-imamo-posebno-srce-zagon-da-stvari-spreminjamo-da-ne-jamramo-ampak-delamo/323959",
     "portal": "ptujinfo",
-    "date": "2025-01-05",
+    "date": "2026-01-05",
     "companyName": "Skupina Tenzor",
     "region": "Ptuj",
     "industryTags": [
@@ -109,7 +109,7 @@
     "dek": "Podjetno s Tilom Pleterskim. Kako se gradi močna blagovna znamka in kultura ekipe v gostinstvu.",
     "url": "https://ljubljanainfo.com/novica/gospodarstvo/til-klemen-iz-hood-burgerja-tezko-je-reci-kaj-je-dober-sef-ampak-moras-biti-cloveski/328711",
     "portal": "ljubljanainfo",
-    "date": "2025-01-12",
+    "date": "2026-01-12",
     "companyName": "Hood Burger",
     "region": "Ljubljana",
     "industryTags": [
@@ -126,6 +126,32 @@
       "employees": "50+",
       "revenue": "več mio € letno",
       "profit": "stabilno poslovanje"
+    }
+  },
+  {
+    "id": "andrej-p-skraba-astra-ai",
+    "title": "Andrej P. Škraba: »Večina startupov ne preživi prvega leta, zato moraš imeti pogum in naboj, da greš na svojo pot.«",
+    "dek": "Podjetno z Andrejem P. Škrabo. Od brezplačne pomoči dijakom do milijonskega AI-posla. ",
+    "url": "https://ljubljanainfo.com/novica/gospodarstvo/od-brezplacne-pomoci-dijakom-do-milijonskega-ai-posla-kako-je-uspel-andrej-p-skraba/331391",
+    "portal": "ljubljanainfo",
+    "date": "2026-02-01",
+    "companyName": "Astra AI",
+    "region": "Ljubljana",
+    "industryTags": [
+      "tehnologija",
+      "ai",
+      "umetna inteligenca",
+      "učenje"
+    ],
+    "contentType": "article",
+    "hasVideo": false,
+    "entrepreneurPhoto": "/podjetniki/andrej-p-skraba.jpg",
+    "featured": true,
+    "companyFacts": {
+      "oneLiner": "Od brezplačne pomoči dijakom do milijonskega AI-posla",
+      "employees": "15+",
+      "revenue": "3+ mio € letno",
+      "profit": "vlaganje v razvoj"
     }
   }
 ]
