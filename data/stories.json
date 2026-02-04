@@ -153,5 +153,31 @@
       "revenue": "3+ mio € letno",
       "profit": "vlaganje v razvoj"
     }
+  },
+  {
+    "id": "janez-janko-kodila-murska-sobota",
+    "title": "Janez Janko Kodila: »Želimo si, da bomo imeli v desetih letih blagovno znamko postavljeno na Dunaju, v Budimpešti in Zagrebu.«",
+    "dek": "Podjetno z Jankom Kodilo. O potrpežljivi rasti, kakovosti izdelkov in ambiciji, da prekmurska blagovna znamka postane regionalno prepoznavna.",
+    "url": "https://sobotainfo.com/novica/gospodarstvo/janez-janko-kodila-zelimo-si-da-bomo-imeli-v-desetih-letih-blagovno-znamko-postavljeno-na-dunaju-v-budimpesti-zagrebu/332281",
+    "portal": "sobotainfo",
+    "date": "2026-02-04",
+    "companyName": "Kodila d.o.o.",
+    "region": "Murska Sobota",
+    "industryTags": [
+      "živilska industrija",
+      "blagovna znamka",
+      "tradicija",
+      "restavracija"
+    ],
+    "contentType": "article",
+    "hasVideo": false,
+    "entrepreneurPhoto": "/podjetniki/janko-kodila.jpg",
+    "featured": true,
+    "companyFacts": {
+      "oneLiner": "Kodila je prekmursko mesnopredelovalno podjetje, ki gradi blagovno znamko na lokalnem izvoru, kakovosti in postopni rasti.",
+      "employees": "30+",
+      "revenue": "7+ mio € letno",
+      "profit": "stabilno poslovanje"
+    }
   }
 ]
