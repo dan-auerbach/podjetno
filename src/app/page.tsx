@@ -38,7 +38,7 @@ export default function HomePage() {
             stories={stories}
             filterOptions={filterOptions}
             showFilters={true}
-            maxItems={6}
+            maxItems={9}
           />
 
           <div className="text-center mt-12">

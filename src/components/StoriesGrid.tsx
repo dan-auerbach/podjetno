@@ -34,11 +34,14 @@ export default function StoriesGrid({
     ...initialFilters,
   });
 
-  const filteredStories = useMemo(() => {
+  const allFilteredStories = useMemo(() => {
     const filtered = filterStories(stories, filters);
-    const sorted = sortStoriesByDate(filtered);
-    return maxItems ? sorted.slice(0, maxItems) : sorted;
-  }, [stories, filters, maxItems]);
+    return sortStoriesByDate(filtered);
+  }, [stories, filters]);
+
+  const displayedStories = useMemo(() => {
+    return maxItems ? allFilteredStories.slice(0, maxItems) : allFilteredStories;
+  }, [allFilteredStories, maxItems]);
 
   return (
     <div>
@@ -47,13 +50,13 @@ export default function StoriesGrid({
           filters={filters}
           filterOptions={filterOptions}
           onFilterChange={setFilters}
-          totalResults={filteredStories.length}
+          totalResults={allFilteredStories.length}
         />
       )}
 
-      {filteredStories.length > 0 ? (
+      {displayedStories.length > 0 ? (
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-          {filteredStories.map((story) => (
+          {displayedStories.map((story) => (
             <StoryCard key={story.id} story={story} />
           ))}
         </div>
