@@ -5,5 +5,19 @@
     "logo": "/sponsors/riko.svg",
     "url": "https://www.riko.si",
     "tier": "gold"
+  },
+  {
+    "id": "nlb",
+    "name": "NLB",
+    "logo": "/sponsors/nlb.jpg",
+    "url": "https://www.nlb.si",
+    "tier": "gold"
+  },
+  {
+    "id": "avant2go",
+    "name": "Avant2Go",
+    "logo": "/sponsors/avant2go.svg",
+    "url": "https://www.avant2go.com",
+    "tier": "gold"
   }
 ]
