@@ -180,4 +180,58 @@
       "profit": "stabilno poslovanje"
     }
   }
+  {
+    "id": "peter-vidmar-agencija-101-ljubljana",
+    "title": "Peter Vidmar: »Uspeh je, da mi že 18 let ni težko stopiti v pisarno.«",
+    "dek": "Podjetno s Petrom Vidmarjem. Kako voditi agencijo v času tanjših marž in hitrih sprememb.",
+    "url": "https://ljubljanainfo.com/novica/gospodarstvo/peter-vidmar-uspeh-je-da-mi-ze-18-let-ni-tezko-stopiti-v-pisarno/333544",
+    "portal": "ljubljanainfo",
+    "date": "2026-02-11",
+    "companyName": "Agencija 101",
+    "region": "Ljubljana",
+    "industryTags": [
+      "oglaševanje",
+      "marketing",
+      "kreativa",
+      "digitalne komunikacije",
+      "vodenje"
+    ],
+    "contentType": "article",
+    "hasVideo": false,
+    "entrepreneurPhoto": "/podjetniki/peter-vidmar.jpg",
+    "featured": true,
+    "companyFacts": {
+      "oneLiner": "Agencija 101 je ljubljanska kreativna in komunikacijska agencija z 18-letno tradicijo, ki gradi dolgoročna partnerstva z naročniki ter združuje strateško razmišljanje z digitalno nativnim pristopom.",
+      "employees": "45",
+      "revenue": "7 mio € letno",
+      "profit": "300–400 tisoč € čistega dobička"
+    }
+  },
+  {
+    "id": "zan-sude-zan-projectiles-ljubljana",
+    "title": "Žan Šude: »Moraš biti malo nor, sicer ne prideš tja, kjer si danes.«",
+    "dek": "Podjetno z Žanom Šudetom. Kako iz garaže zgraditi globalno proizvodnjo in ostati korak pred konkurenco.",
+    "url": "https://ljubljanainfo.com/novica/gospodarstvo/z-jarske-ceste-do-savdske-arabije-ali-kako-iz-dveh-ur-spanja-zraste-milijonski-posel/334180",
+    "portal": "ljubljanainfo",
+    "date": "2026-02-15",
+    "companyName": "Zan Projectiles (ZAN-P d.o.o.)",
+    "region": "Ljubljana",
+    "industryTags": [
+      "proizvodnja",
+      "izvoz",
+      "športno strelstvo",
+      "avtomatizacija",
+      "nišni trg"
+    ],
+    "contentType": "article",
+    "hasVideo": false,
+    "entrepreneurPhoto": "/podjetniki/zan-sude.jpg",
+    "featured": true,
+    "companyFacts": {
+      "oneLiner": "Zan Projectiles je specializiran slovenski proizvajalec preciznih projektilov za športno strelstvo in lov, ki 99,5 % prodaje ustvari na tujih trgih, z načrti za širitev na ameriški trg.",
+      "employees": "4",
+      "revenue": "1+ mio € letno",
+      "profit": "~182 tisoč € čistega dobička"
+    }
+  }
 ]
