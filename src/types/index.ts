@@ -30,6 +30,7 @@ export interface Sponsor {
   logo: string;
   url: string;
   tier: 'gold' | 'silver' | 'bronze';
+  width?: number;
 }
 
 export interface FilterOptions {

@@ -29,7 +29,8 @@ export default function SponsorsSection({ sponsors }: SponsorsSectionProps) {
                   href={sponsor.url}
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="relative h-16 w-40 grayscale hover:grayscale-0 opacity-70 hover:opacity-100 transition-all duration-300"
+                  className="relative h-16 grayscale hover:grayscale-0 opacity-70 hover:opacity-100 transition-all duration-300"
+                  style={{ width: sponsor.width ? `${sponsor.width}px` : '160px' }}
                 >
                   <Image
                     src={sponsor.logo}

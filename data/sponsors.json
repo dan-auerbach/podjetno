@@ -18,6 +18,7 @@
     "name": "Avant2Go",
     "logo": "/sponsors/avant2go.svg",
     "url": "https://avant2go.si/",
-    "tier": "gold"
+    "tier": "gold",
+    "width": 100
   }
 ]
